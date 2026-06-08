@@ -28,7 +28,7 @@ The underlying AI model was rigorously tested using **5-Fold Cross-Validation** 
 * **Deep Learning:** TensorFlow / Keras (MobileNetV2)
 * **Computer Vision:** OpenCV, NumPy
 * **Desktop Interface:** PyQt6
-* **Language:** Python 3.x
+* **Language:** Python 3.13.3
 
 ## 🚀 Installation & Setup
 
